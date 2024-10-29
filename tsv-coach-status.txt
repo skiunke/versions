@@ -1,1 +1,1 @@
-Die Bot überprüfung dauert ggf. ein paar Sekunden länger, da CloudFlare aktuell Probleme hat.
+Login Bot Überprüfung dauert aktuell teilweise länger, aufgrund CloudFlare Routing.
